@@ -1,6 +1,6 @@
 package com.eduinsuncheon.blog.model;
 
-public enum Role {
+public enum RoleType {
 
     ADMIN,
     MANAGER,
